@@ -1,0 +1,35 @@
+.holder{
+    min-height:100vh;
+    height: auto;
+    width:100%;
+    background-color:#323234;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+}
+.holder1{
+    width:80%;
+    height:auto;
+    background-color:#8F918E;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+.van{
+    width:100px;
+    height:88%;
+    border:4px solid black;
+    border-radius:5px;
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content:center;
+    font-size:20px;
+    font-weight:600px;
+    background-color:#A2777E;
+}
+.my_border{
+    border-radius: 20px;
+}

@@ -1,0 +1,25 @@
+.CaseHolder{
+    width: 78%;
+    padding: 10px;
+    background-color: whitesmoke;
+    border-radius: 6px;
+}
+.NewControl{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+    text-align: left;
+    gap: 3rem;
+}
+.controlNew label{
+    display: block;
+    font-weight: bold;
+}
+.ExpenseButton button{
+    width: 120px;
+    height: 35px;
+    background-color: #8F918E;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
